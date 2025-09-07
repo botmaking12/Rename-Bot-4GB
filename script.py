@@ -23,14 +23,14 @@ class script(object):
 <b>📢 Channel :</b> <a href='https://t.me/Madflix_Bots'>Madflix Botz</a>
 <b>🧑‍💻 Developer :</b> <a href='https://t.me/CallAdminRobot'>Jishu Developer</a>
 
-<b>♻️ Bot Made By :</b> @Madflix_Bots"""
+<b>♻️ Bot Made By :</b> @Unknown_person0256"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> 
+<b>🛍 UPI ID:</b> <code>tusharrathva2-9@okicici</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -50,9 +50,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By @Madflix_Bots</code>
+<code>By @Unknown_person0256</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Unknown_person0256
 """
 
 
