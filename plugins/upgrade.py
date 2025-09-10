@@ -23,14 +23,14 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <code>tusharrathva2-3@okhdfcbank</code>
+<b>➜ PayPal :</b> <a href='tusharrathva2-3@okhdfcbank'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://envs.sh/P54.jpg/IMG20250910579.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+After Payment Send Screenshots Of Payment To Admin @Unknown_person0256"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
+        [InlineKeyboardButton("🦋 Admin", url = "@Unknown_person0256"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -57,14 +57,14 @@ Daily Upload limit 100GB
 Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>madflixofficial@axl</code>
-<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
-<b>➜ QR Code :</b> <a href='https://telegra.ph/QR-Payment-07-24-4'>Click Here</a>
+<b>➜ UPI ID :</b> <code>tusharrathva2-3@okhdfcbank</code>
+<b>➜ PayPal :</b> <a href='tusharrathva2-3@okhdfcbank'>Click Here</a>
+<b>➜ QR Code :</b> <a href='https://envs.sh/P54.jpg/IMG20250910579.jpg'>Click Here</a>
 
-After Payment Send Screenshots Of Payment To Admin @MadflixOfficials"""
+After Payment Send Screenshots Of Payment To Admin @Unknown_person0256"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://t.me/calladminrobot"),
+        [InlineKeyboardButton("🦋 Admin", url = "@Unknown_person0256"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
