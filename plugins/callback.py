@@ -21,7 +21,7 @@ async def about(bot,update):
 async def donatecm(bot,message):
     text = script.DONATE_TXT
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin",url = "https://t.me/CallAdminRobot"),
+        [InlineKeyboardButton("🦋 Admin",url = "@Unknown_person0256"),
         InlineKeyboardButton("✖️ Close",callback_data = "cancel") ]])
     await message.reply_text(text = text,reply_markup = keybord)    
 
