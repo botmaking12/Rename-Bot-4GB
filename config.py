@@ -5,7 +5,7 @@ import os
 # Required Variables Config
 API_ID = int(os.environ.get("API_ID", "25935455"))
 API_HASH = os.environ.get("API_HASH", "47cb45d81d6e23bfc68671ea78cc6f9c")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8002626546:AAExIwwy-dRjZ8c6YGPaEIKwYUwrd3FvEJQ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8405053598:AAGJnwra67jBc9fAPPCSNhUVjnqij8Aet0Q")
 ADMIN = int(os.environ.get("ADMIN", "1278626587"))
 
 
@@ -24,7 +24,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "rathv")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://tinyurl.com/3hzmtfcd")
 
 
 
